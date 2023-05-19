@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AnsahMohammad
-- 👀 I’m interested in Quantum Computing and Machine Learning Algorithms
+# Hi there,  I'm @AnsahMohammad
+- 👀 I’m interested in Quantum Computing and Machine Learning
 - 🌱 I’m currently learning Software Development
 - 📍 I'm a Computer Science student at NIT Surat
 - 📫 How to reach me mohammedansah123@gmail.com, mohammadansah@outlook.com
