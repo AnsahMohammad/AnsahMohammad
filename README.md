@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Software Development
 - 📍 I'm a Computer Science student at NIT Surat
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansahmohammad&show_icons=true&locale=en" alt="ansahmohammad" /></p>
+![AnsahMohammad's Stats](https://github-readme-stats.vercel.app/api?username=AnsahMohammad&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
