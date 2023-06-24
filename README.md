@@ -14,9 +14,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansahmohammad&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </div>
 <br />
-<div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ansah-88465b214/)
