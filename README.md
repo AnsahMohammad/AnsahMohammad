@@ -23,4 +23,8 @@
 </p>
 
 ---
-[![Visits Badge](https://badges.pufler.dev/visits/AnsahMohammad/AnsahMOhammad)](https://github.com/AnsahMohammad)
+## Extras:
+<details>
+  <summary>Profile Views</summary>
+  <img src="https://badges.pufler.dev/visits/AnsahMohammad/AnsahMOhammad" alt="Visits Badge">
+</details>
