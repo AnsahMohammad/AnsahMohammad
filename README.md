@@ -1,7 +1,7 @@
 # Hello world !🌥️, <br> I'm `AnsahMohammad` 👨‍💻
 
-- 🧠 Currently learning **Software development**
-- 🍀 interested in **Backend Development, Quantum computing,** and **Machine Learning**
+- 🧠 Currently learning **RUST🦀**
+- 🍀 interested in learning **How Software works**
 - 📍 CSE Undergrad at **NIT Surat**
 
 ### 💻 Tech Stack:
