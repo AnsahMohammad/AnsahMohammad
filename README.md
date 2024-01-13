@@ -1,7 +1,7 @@
 # Hello world !🌥️, <br> I'm `AnsahMohammad` 👨‍💻
 
 - 🧠 Currently learning **RUST🦀**
-- 🍀 interested in learning **How Software works**
+- 🍀 interested in **Building apps**
 - 📍 CSE Undergrad at **NIT Surat**
 
 ### 💻 Tech Stack:
