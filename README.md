@@ -1,6 +1,7 @@
 # Hello world !🌥️, <br> I'm `AnsahMohammad` 👨‍💻
 
 - 🧠 Currently learning **RUST🦀**
+- 💻 SWE Intern at **Google LLC**
 - 🍀 interested in **Building apps**
 - 📍 CSE Undergrad at **NIT Surat**
 
