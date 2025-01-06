@@ -1,6 +1,6 @@
 # Hello world !🌥️, <br> I'm `AnsahMohammad` 👨‍💻
 
-- 🧠 Currently exploring Secuirity
+- 🧠 Currently exploring Security
 - 🍀 interested in **Optimizing applications**
 - 📍 Computer Science at **NIT Surat**
 
